@@ -8,7 +8,7 @@ A Flutter package that enables smooth image zoom effects on hover. Ideal for sho
 ### Demo
 
 <video controls autoplay height="400px" 
-       src="https://raw.githubusercontent.com/CodeBySubin/hover_zoom_image/master/example/demo%20video/demo.mp4"
+       src="https://github.com/CodeBySubin/hover_zoom_image/blob/master/example/demo/demo.gif"
        type="video/mp4">
 </video>
 

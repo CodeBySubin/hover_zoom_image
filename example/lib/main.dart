@@ -36,8 +36,9 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       body: Center(
         child: HoverZoomImage(
-          imageProvider: const NetworkImage(              'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-),
+          imageProvider: const NetworkImage(
+            'https://images.unsplash.com/photo-1594502184342-2e12f877aa73?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+          ),
           width: 550,
           height: 700,
           zoomScale: 2.5,
@@ -47,4 +48,3 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-
